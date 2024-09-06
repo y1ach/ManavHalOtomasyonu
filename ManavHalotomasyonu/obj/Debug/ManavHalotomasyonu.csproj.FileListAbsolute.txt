@@ -1,0 +1,7 @@
+C:\Users\yigit\OneDrive\Desktop\C#\ManavHalotomasyonu\bin\Debug\ManavHalotomasyonu.exe.config
+C:\Users\yigit\OneDrive\Desktop\C#\ManavHalotomasyonu\bin\Debug\ManavHalotomasyonu.exe
+C:\Users\yigit\OneDrive\Desktop\C#\ManavHalotomasyonu\bin\Debug\ManavHalotomasyonu.pdb
+C:\Users\yigit\OneDrive\Desktop\C#\ManavHalotomasyonu\obj\Debug\ManavHalotomasyonu.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Desktop\C#\ManavHalotomasyonu\obj\Debug\ManavHalotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Desktop\C#\ManavHalotomasyonu\obj\Debug\ManavHalotomasyonu.exe
+C:\Users\yigit\OneDrive\Desktop\C#\ManavHalotomasyonu\obj\Debug\ManavHalotomasyonu.pdb
